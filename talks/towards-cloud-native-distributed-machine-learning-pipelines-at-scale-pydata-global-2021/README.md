@@ -12,4 +12,4 @@ This talk presents various best practices on building large, efficient, scalable
 
 * [Slides](presentation.pdf)
 * [Schedule](https://pydata.org/global2021/schedule/presentation/43/towards-cloud-native-distributed-machine-learning-pipelines-at-scale/)
-* [Video](TBA)
+* [Video](https://youtu.be/dNzb_-JD6T0)
