@@ -1,4 +1,5 @@
 # TensorFlow Overview - Why Should Statisticians Care?
 
-* 50 attendees.
+* Presented as a guest lecturer for the class *Advanced Machine Learning* at Department of Statistics of Purdue University.
+* 50 graduate students.
 * [Slides](presentation.pdf)
