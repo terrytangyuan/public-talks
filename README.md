@@ -4,4 +4,11 @@ This repository contains the slides and supporting files for my public talks on 
 
 | Title | Venue |
 | ----- | ----- |
-| [Towards Cloud-Native Distributed Machine Learning Pipelines at Scale](/towards-cloud-native-distributed-machine-learning-pipelines-at-scale-pydata-global-2021) | [PyData Global 2021](https://pydata.org/global2021/) |
+| []() | []() |
+| []() | []() |
+| [Towards Cloud-Native Distributed Machine Learning Pipelines at Scale](talks/towards-cloud-native-distributed-machine-learning-pipelines-at-scale-pydata-global-2021) | [PyData Global 2021](https://pydata.org/global2021/) |
+| [Introducing Couler: Unified Interface for Constructing and Managing Workflows](talks/introducing-couler-unified-interface-for-constructing-and-managing-workflows) | [Argo Workflows Community Meeting](https://argoproj.github.io/) |
+| [Large Scale Distributed Deep Learning with Kubernetes Operators](talks/large-scale-distributed-deep-learning-with-kubernetes-perators-kubecon-europe-2019) | [KubeCon and CloudNativeCon Europe 2019](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) |
+| [Considerations for Large Scale Analytics in Production](talks/considerations-for-large-scale-analytics-in-production) | [Production Scale Implementation of Data Analytics, School of Management, Purdue University](https://www.purdue.edu/) |
+| [TensorFlow Overview - Why Should Statisticians Care?](talks/tensorflow-overview-why-should-statisticians-care) | [Advanced Machine Learning, Department of Statistics, Purdue University](https://www.purdue.edu/) |
+| [Introduction to TensorFlow](talks/introduction-to-tensorflow) | [American Statistical Association Conference on Recent Advances in Machine Learning ](https://www.amstat.org/) |
