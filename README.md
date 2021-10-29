@@ -1,6 +1,10 @@
 # public-talks
 
-This repository contains the slides and supporting files for my public talks on various conferences,  meetups, and classes.
+This repository contains the slides and supporting files for my public talks on various conferences, meetups, and classes.
+
+If you are interested in attending any of the upcoming talks, you can find the schedule and registration information by clicking the talk title below.
+
+If you have attended any of the talks and have follow-up questions, feel free to [submit an issue](https://github.com/terrytangyuan/public-talks/issues) with your questions or contact me on [Twitter](https://twitter.com/TerryTangYuan) or [LinkedIn](https://www.linkedin.com/in/terrytangyuan).
 
 | Title | Venue | Date |
 | ----- | ----- | ---- |
