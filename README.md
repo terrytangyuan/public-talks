@@ -1,4 +1,4 @@
-# public-talks
+# Public Talks
 
 This repository contains the slides and supporting files for my public talks on various conferences, meetups, and classes.
 
