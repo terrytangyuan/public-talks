@@ -1,6 +1,6 @@
 # Public Talks
 
-This repository contains the slides and supporting files for my public talks on various conferences, meetups, and classes.
+This repository contains the slides, videos, and supporting files for my public talks on various conferences, meetups, and classes.
 
 If you are interested in attending any of the upcoming talks, you can find the schedule and registration information by clicking the talk title below.
 
