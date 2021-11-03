@@ -10,6 +10,7 @@ In recent years, advances in machine learning have made tremendous progress yet 
 
 This talk presents various best practices on building large, efficient, scalable, and reliable distributed machine learning pipelines using cloud-native technologies such as Argo Workflows and Kubeflow as well as cutting-edge distributed machine learning frameworks such as TensorFlow and PyTorch. We will also talk about some of the challenges we had when managing distributed machine learning pipelines in our Kubernetes clusters with tens of thousands of nodes in production.
 
+* 4000+ attendees.
 * [Slides](presentation.pdf)
 * [Schedule](https://pydata.org/global2021/schedule/presentation/43/towards-cloud-native-distributed-machine-learning-pipelines-at-scale/)
 * [Video](https://youtu.be/dNzb_-JD6T0)
