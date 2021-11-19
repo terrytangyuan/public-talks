@@ -8,6 +8,7 @@ If you have attended any of the talks and have follow-up questions, feel free to
 
 | Title | Venue | Date |
 | ----- | ----- | ---- |
+| [When Machine Learning Toolkit for Kubernetes Meets PaddlePaddle](talks/when-machine-learning-toolkit-for-kubernetes-meets-paddlepaddle-wave-summit-2021) | [Wave Summit](https://www.wavesummit.com.cn/) | Dec 12th, 2021 |
 | [Unveil The Secret Ingredients for Argo CD at Enterprise Scale](talks/unveil-the-secret-ingredients-for-argo-cd-at-enterprise-scale-kubecon-china-2021) | [KubeCon and CloudNativeCon China](https://www.lfasiallc.com/kubecon-cloudnativecon-open-source-summit-china/) | Dec 9th, 2021 |
 | [Bridging into Python Ecosystem with Cloud-Native Distributed Machine Learning Pipelines](talks/bridging-into-python-ecosystem-with-cloud-native-distributed-machine-learning-pipelines-argocon-2021) | [ArgoCon](https://argoproj.github.io/argocon21/) | Dec 8th, 2021 |
 | [Towards Cloud-Native Distributed Machine Learning Pipelines at Scale](talks/towards-cloud-native-distributed-machine-learning-pipelines-at-scale-pydata-global-2021) | [PyData Global](https://pydata.org/global2021/) | Oct 29th, 2021 |
