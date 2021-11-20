@@ -8,4 +8,4 @@ This talk presents various best practices and challenges on building large, effi
 
 * [Slides](presentation.pdf)
 * [Schedule](https://argoproj.github.io/argocon21/)
-* [Video](TBA)
+* [Video (TBA)](TBA)

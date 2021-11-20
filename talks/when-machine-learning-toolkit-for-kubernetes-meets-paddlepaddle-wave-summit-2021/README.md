@@ -4,6 +4,6 @@
 
 Kubeflow and the collaboration with PaddlePaddle.
 
-* [Slides](TBA)
-* [Schedule](TBA)
-* [Video](TBA)
+* [Slides (TBA)](TBA)
+* [Schedule (TBA)](TBA)
+* [Video (TBA)](TBA)
