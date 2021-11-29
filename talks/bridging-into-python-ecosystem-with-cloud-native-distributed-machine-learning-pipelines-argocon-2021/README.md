@@ -9,4 +9,4 @@ This talk presents various best practices and challenges on building large, effi
 * [Slides](presentation.pdf)
 * [Schedule](https://argoproj.github.io/argocon21/)
 * [Video (TBA)](TBA)
-* Examples: [Python SDK](couler-examples.py) and [Argo Workflows YAML](argo-workflows.yaml).
+* Code: Argo Workflows examples [in Python](couler-examples.py) and [in YAML](argo-workflows.yaml).

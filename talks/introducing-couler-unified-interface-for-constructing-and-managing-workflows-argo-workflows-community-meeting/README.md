@@ -3,4 +3,4 @@
 * 30 attendees.
 * [Slides](presentation.pdf)
 * [Video](https://youtu.be/TLTxv2F5WCQ?t=2500)
-* [Examples](examples.py)
+* [Code](examples.py)
