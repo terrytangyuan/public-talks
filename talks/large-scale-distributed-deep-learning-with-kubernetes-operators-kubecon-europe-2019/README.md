@@ -9,3 +9,4 @@ The focus of this talk is the usage of Kubernetes operators to manage and automa
 * [Slides](presentation.pdf)
 * [Schedule](https://kccnceu19.sched.com/event/MPaT)
 * [Video](https://youtu.be/jyLi1cfJeM8)
+* [Examples](examples.py)

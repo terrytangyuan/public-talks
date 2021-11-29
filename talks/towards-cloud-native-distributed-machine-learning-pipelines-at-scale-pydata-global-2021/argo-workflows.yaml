@@ -1,0 +1,115 @@
+# Hello World
+apiVersion: argoproj.io/v1alpha1
+kind: Workflow
+metadata:
+  generateName: hello-world-
+spec:
+  entrypoint: whalesay
+  templates:
+  - name: whalesay
+    container:
+      image: docker/whalesay
+      command: [cowsay]
+      args: ["hello world"]
+
+# Script template
+  - name: gen-random-int
+    script:
+      image: python:alpine3.6
+      command: [python]
+      source: |
+        import random
+        i = random.randint(1, 100)
+        print(i)
+
+# Resource template
+# Performs operations on cluster Resources directly. It can be used to get, create, apply, delete, replace, or patch resources on your cluster.
+# This example creates a ConfigMap resource on the cluster
+  - name: k8s-owner-reference
+    resource:
+      action: create
+      manifest: |
+        apiVersion: v1
+        kind: ConfigMap
+        metadata:
+          generateName: owned-eg-
+        data:
+          some: value
+
+# DAG: As an alternative to specifying sequences of steps, you can define the workflow as a directed-acyclic graph (DAG) by specifying the dependencies of each task. This can be simpler to maintain for complex workflows and allows for maximum parallelism when running tasks.
+apiVersion: argoproj.io/v1alpha1
+kind: Workflow
+metadata:
+  generateName: dag-diamond-
+spec:
+  entrypoint: diamond
+  templates:
+  - name: echo
+    inputs:
+      parameters:
+      - name: message
+    container:
+      image: alpine:3.7
+      command: [echo, "{{inputs.parameters.message}}"]
+  - name: diamond
+    dag:
+      tasks:
+      - name: A
+        template: echo
+        arguments:
+          parameters: [{name: message, value: A}]
+      - name: B
+        dependencies: [A]
+        template: echo
+        arguments:
+          parameters: [{name: message, value: B}]
+      - name: C
+        dependencies: [A]
+        template: echo
+        arguments:
+          parameters: [{name: message, value: C}]
+      - name: D
+        dependencies: [B, C]
+        template: echo
+        arguments:
+          parameters: [{name: message, value: D}]
+
+# Coin-flip
+apiVersion: argoproj.io/v1alpha1
+kind: Workflow
+metadata:
+  generateName: coinflip-
+spec:
+  entrypoint: coinflip
+  templates:
+  - name: coinflip
+    steps:
+    - - name: flip-coin
+        template: flip-coin
+    - - name: heads
+        template: heads
+        when: "{{steps.flip-coin.outputs.result}} == heads"
+      - name: tails
+        template: tails
+        when: "{{steps.flip-coin.outputs.result}} == tails"
+
+  - name: flip-coin
+    script:
+      image: python:alpine3.6
+      command: [python]
+      source: |
+        import random
+        result = "heads" if random.randint(0,1) == 0 else "tails"
+        print(result)
+
+  - name: heads
+    container:
+      image: alpine:3.6
+      command: [sh, -c]
+      args: ["echo \"it was heads\""]
+
+  - name: tails
+    container:
+      image: alpine:3.6
+      command: [sh, -c]
+      args: ["echo \"it was tails\""]
