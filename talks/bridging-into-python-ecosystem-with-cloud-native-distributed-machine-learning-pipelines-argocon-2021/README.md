@@ -1,5 +1,7 @@
 # Bridging into Python Ecosystem with Cloud-Native Distributed Machine Learning Pipelines
 
+![Speaker Card](speaker-card.png)
+
 **Abstract**:
 
 In recent years, advances in machine learning have made tremendous progress yet large scale machine learning still remains challenging. With the variety of machine learning frameworks such as TensorFlow and PyTorch, it’s not easy to automate the process of training machine learning models on distributed Kubernetes clusters. Machine learning researchers and algorithm engineers with less or zero DevOps experience cannot easily launch, manage, monitor, and optimize distributed machine learning pipelines.
@@ -11,5 +13,3 @@ This talk presents various best practices and challenges on building large, effi
 * [Video (TBA)](TBA)
 * Code: Argo Workflows examples [in Python](couler-examples.py) and [in YAML](argo-workflows.yaml).
 * 2000+ registrants.
-
-![Speaker Card](speaker-card.png)
