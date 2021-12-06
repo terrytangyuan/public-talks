@@ -7,3 +7,5 @@ Kubeflow and the collaboration with PaddlePaddle.
 * Keynote speaker.
 * [Slides](presentation.pdf)
 * [Video (TBA)](TBA)
+
+![Speaker Card](speaker-card.jpg)
