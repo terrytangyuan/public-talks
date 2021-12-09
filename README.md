@@ -2,9 +2,17 @@
 
 This repository contains the slides, videos, and supporting files for my public talks on various conferences, meetups, and classes.
 
-If you are interested in attending any of the upcoming talks, you can find the schedule and registration information by clicking the talk title below.
+If you have attended any of the talks and have follow-up questions, feel free to [submit an issue](https://github.com/terrytangyuan/public-talks/issues) with your questions or contact me on via any of the following platforms:
 
-If you have attended any of the talks and have follow-up questions, feel free to [submit an issue](https://github.com/terrytangyuan/public-talks/issues) with your questions or contact me on [Twitter](https://twitter.com/TerryTangYuan) or [LinkedIn](https://www.linkedin.com/in/terrytangyuan).
+<div align="center">
+  <a href="https://twitter.com/TerryTangYuan"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/twitter.svg" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/terrytangyuan"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/linkedin.svg" alt="LinkedIn"></a>
+  <a href="https://www.zhihu.com/people/terrytangyuan"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/zhihu.svg" alt="知乎"></a>
+  <a href="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/wechat-qr-code.png"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/wechat.svg" alt="微信"></a>
+  <a href="https://weibo.com/5681818134"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/weibo.svg" alt="微博"></a>
+</div>
+
+<br/>
 
 | Title | Venue | Date |
 | ----- | ----- | ---- |
