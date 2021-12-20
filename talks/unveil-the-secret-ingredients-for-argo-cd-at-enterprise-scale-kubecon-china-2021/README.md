@@ -6,4 +6,4 @@ Unlike the fact that there is no secret ingredient in Kung Fu Panda’s noodle s
 
 * [Slides](presentation.pdf)
 * [Schedule](https://sched.co/pccf)
-* [Video (TBA)](TBA)
+* [Video](https://youtu.be/MQW2PNH0wfM)
