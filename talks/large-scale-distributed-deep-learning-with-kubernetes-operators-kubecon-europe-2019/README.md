@@ -1,5 +1,7 @@
 # Large Scale Distributed Deep Learning with Kubernetes Operators
 
+**Speakers**: [Yuan Tang](https://terrytangyuan.github.io/about/) and [Yong Tang](https://www.linkedin.com/in/yong-tang).
+
 **Abstract**:
 
 The focus of this talk is the usage of Kubernetes operators to manage and automate training process for machine learning tasks. Two open source Kubernetes operators, tf-operator and mpi-operator, will be discussed. Both operators manage training jobs for TensorFlow but they have different distribution strategies. The tf-operator fits the parameter server distribution strategy which has a centralized parameter server for coordination. The mpi-operator, on the other hand, utilize MPI allreduce primitive implementation. While the parameter server strategy requires a right ratio of CPU (for parameter servers) and GPU (for workers) to reach network-optimal, the all reduce distribution might be easier to optimize network cost. We will share our performance numbers in out talk for comparison of those two operators. 
