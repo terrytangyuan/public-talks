@@ -17,7 +17,7 @@ If you have attended any of the talks and have follow-up questions, feel free to
 | Title | Venue | Format | Date |
 | ----- | ----- | ------ | ---- |
 | TBD | [ODSC East](https://odsc.com/boston/) | Invited Speaker | April 19th, 2022 |
-| [Kubeflow Training Operator v1.5 Updates and 2022 Roadmap](talks/kubeflow-training-operator-v1.5-updates-and-2022-roadmap) | Kubeflow Community Meeting | Invited Speaker | Dec 7th, 2021 |
+| [Kubeflow Training Operator v1.5 Updates and 2022 Roadmap](talks/kubeflow-training-operator-v1.5-updates-and-2022-roadmap) | [Kubeflow Community Meeting](https://www.kubeflow.org/docs/about/community/) | Maintainer Update | Dec 7th, 2021 |
 | [[Keynote] When Machine Learning Toolkit for Kubernetes Meets PaddlePaddle](talks/when-machine-learning-toolkit-for-kubernetes-meets-paddlepaddle-wave-summit-2021) | [Wave Summit](https://www.wavesummit.com.cn/) | Invited Keynote Speaker | Dec 12th, 2021 |
 | [Unveil The Secret Ingredients for Argo CD at Enterprise Scale](talks/unveil-the-secret-ingredients-for-argo-cd-at-enterprise-scale-kubecon-china-2021) | [KubeCon and CloudNativeCon China](https://www.lfasiallc.com/kubecon-cloudnativecon-open-source-summit-china/) | Speaker | Dec 9th, 2021 |
 | [Bridging into Python Ecosystem with Cloud-Native Distributed Machine Learning Pipelines](talks/bridging-into-python-ecosystem-with-cloud-native-distributed-machine-learning-pipelines-argocon-2021) | [ArgoCon](https://argoproj.github.io/argocon21/) | Speaker | Dec 8th, 2021 |
