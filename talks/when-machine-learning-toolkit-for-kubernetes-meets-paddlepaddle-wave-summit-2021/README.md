@@ -6,6 +6,6 @@ Kubeflow and the collaboration with PaddlePaddle.
 
 * Keynote speaker.
 * [Slides](presentation.pdf)
-* [Video (TBA)](TBA)
+* [Video](https://www.wavesummit.com.cn/#/liveroom)
 
 ![Speaker Card](speaker-card.jpg)
