@@ -2,7 +2,7 @@
 
 This repository contains the slides, videos, and supporting files for my public talks on various conferences, meetups, and classes.
 
-If you have attended any of the talks and have follow-up questions, feel free to [submit an issue](https://github.com/terrytangyuan/public-talks/issues) with your questions or contact me on via any of the following platforms:
+**If you'd like to invite me to speak at an event you are organizing or have any follow-up questions after you've attended any of my talks, feel free to email me at `terrytangyuan@gmail.com` or contact me via any of the following:**
 
 <div align="center">
   <a href="https://twitter.com/TerryTangYuan"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/twitter.svg" alt="Twitter"></a>
@@ -16,7 +16,7 @@ If you have attended any of the talks and have follow-up questions, feel free to
 
 | Title | Venue | Format | Date |
 | ----- | ----- | ------ | ---- |
-| TBD | [ODSC East](https://odsc.com/boston/) | Invited Speaker | April 19th, 2022 |
+| TBD | [Open Data Science Conference](https://odsc.com/boston/) | Invited Speaker | April 19th, 2022 |
 | [Kubeflow Training Operator v1.5 Updates and 2022 Roadmap](talks/kubeflow-training-operator-v1.5-updates-and-2022-roadmap) | [Kubeflow Community Meeting](https://www.kubeflow.org/docs/about/community/) | Maintainer Update | Dec 7th, 2021 |
 | [[Keynote] When Machine Learning Toolkit for Kubernetes Meets PaddlePaddle](talks/when-machine-learning-toolkit-for-kubernetes-meets-paddlepaddle-wave-summit-2021) | [Wave Summit](https://www.wavesummit.com.cn/) | Invited Keynote Speaker | Dec 12th, 2021 |
 | [Unveil The Secret Ingredients for Argo CD at Enterprise Scale](talks/unveil-the-secret-ingredients-for-argo-cd-at-enterprise-scale-kubecon-china-2021) | [KubeCon and CloudNativeCon China](https://www.lfasiallc.com/kubecon-cloudnativecon-open-source-summit-china/) | Speaker | Dec 9th, 2021 |
