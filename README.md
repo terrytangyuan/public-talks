@@ -16,10 +16,10 @@ This repository contains the slides, videos, and supporting files for my public 
 
 | Title | Venue | Role | Date |
 | ----- | ----- | ------ | ---- |
-| [Data Science in the Cloud-Native Era](talks/data-science-in-the-cloud-native-era) | [Open Data Science Conference](https://odsc.com/boston/) | Invited Speaker | April 19th, 2022 |
+| [Data Science in the Cloud-Native Era](talks/data-science-in-the-cloud-native-era-odsc-2022) | [Open Data Science Conference](https://odsc.com/boston/) | Invited Speaker | April 19th, 2022 |
 | [Kubeflow Training Operator v1.5 Updates and 2022 Roadmap](talks/kubeflow-training-operator-v1.5-updates-and-2022-roadmap) | [Kubeflow Community Meeting](https://www.kubeflow.org/docs/about/community/) | Maintainer Update | Dec 7th, 2021 |
 | [[Keynote] When Machine Learning Toolkit for Kubernetes Meets PaddlePaddle](talks/when-machine-learning-toolkit-for-kubernetes-meets-paddlepaddle-wave-summit-2021) | [Wave Summit](https://www.wavesummit.com.cn/) | Invited Keynote Speaker | Dec 12th, 2021 |
-| [Unveil The Secret Ingredients for Argo CD at Enterprise Scale](talks/unveil-the-secret-ingredients-for-argo-cd-at-enterprise-scale-kubecon-china-2021) | [KubeCon and CloudNativeCon China](https://www.lfasiallc.com/kubecon-cloudnativecon-open-source-summit-china/) | Maintainer Track Speaker | Dec 9th, 2021 |
+| [Unveil The Secret Ingredients for Argo CD at Enterprise Scale](talks/unveil-the-secret-ingredients-for-argo-cd-at-enterprise-scale-kubecon-china-2021) | [KubeCon and CloudNativeCon China](https://www.lfasiallc.com/kubecon-cloudnativecon-open-source-summit-china/) | Invited Speaker | Dec 9th, 2021 |
 | [Bridging into Python Ecosystem with Cloud-Native Distributed Machine Learning Pipelines](talks/bridging-into-python-ecosystem-with-cloud-native-distributed-machine-learning-pipelines-argocon-2021) | [ArgoCon](https://argoproj.github.io/argocon21/) | Speaker | Dec 8th, 2021 |
 | [Towards Cloud-Native Distributed Machine Learning Pipelines at Scale](talks/towards-cloud-native-distributed-machine-learning-pipelines-at-scale-pydata-global-2021) | [PyData Global](https://pydata.org/global2021/) | Speaker | Oct 29th, 2021 |
 | [Introducing Couler: Unified Interface for Constructing and Managing Workflows](talks/introducing-couler-unified-interface-for-constructing-and-managing-workflows-argo-workflows-community-meeting) | [Argo Workflows Community Meeting](https://argoproj.github.io/) | Invited Speaker | Sep 16th, 2020 |
