@@ -7,9 +7,7 @@ This repository contains the slides, videos, and supporting files for my public 
 <div align="center">
   <a href="https://twitter.com/TerryTangYuan"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/twitter.svg" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/terrytangyuan"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/linkedin.svg" alt="LinkedIn"></a>
-  <a href="https://www.zhihu.com/people/terrytangyuan"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/zhihu.svg" alt="知乎"></a>
   <a href="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/wechat-qr-code.png"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/wechat.svg" alt="微信"></a>
-  <a href="https://weibo.com/5681818134"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/weibo.svg" alt="微博"></a>
 </div>
 
 <br/>
