@@ -1,6 +1,6 @@
 # Data Science in the Cloud-Native Era
 
-![Speaker Card](speaker-card.jpg)
+<img align="right" src="speaker-card.jpg" alt="speaker-card" width="50%" height="50%">
 
 **Abstract**:
 
