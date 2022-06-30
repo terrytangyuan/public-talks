@@ -14,6 +14,8 @@ This repository contains the slides, videos, and supporting files for my public 
 
 | Title | Venue | Role | Date |
 | ----- | ----- | ------ | ---- |
+| [Automating Map-building Pipelines for Safe Autonomous Driving with Argo Workflows at TuSimple](talks/argocon-autonomous-driving-tusimple-2022) | [ArgoCon](https://events.linuxfoundation.org/argocon/) | Speaker | Sep 20th, 2022 |
+| [Managing Thousands of Automatic Machine Learning Experiments With Argo and Katib](talks/argocon-automl-experiments-2022) | [ArgoCon](https://events.linuxfoundation.org/argocon/) | Speaker | Sep 20th, 2022 |
 | [Data Science in the Cloud-Native Era](talks/data-science-in-the-cloud-native-era-odsc-2022) | [Open Data Science Conference](https://odsc.com/boston/) | Invited Speaker | April 19th, 2022 |
 | [Kubeflow Training Operator v1.5 Updates and 2022 Roadmap](talks/kubeflow-training-operator-v1.5-updates-and-2022-roadmap) | [Kubeflow Community Meeting](https://www.kubeflow.org/docs/about/community/) | Maintainer Update | Dec 7th, 2021 |
 | [[Keynote] When Machine Learning Toolkit for Kubernetes Meets PaddlePaddle](talks/when-machine-learning-toolkit-for-kubernetes-meets-paddlepaddle-wave-summit-2021) | [Wave Summit](https://www.wavesummit.com.cn/) | Invited Keynote Speaker | Dec 12th, 2021 |
