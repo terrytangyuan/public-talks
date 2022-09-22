@@ -8,3 +8,4 @@ Autonomous driving has made tremendous progress in recent years. One of the fund
 
 * [Schedule](https://sched.co/14lxN)
 * [Slides](https://docs.google.com/presentation/d/13D0s2VO3C0pMBJXdeQor0w9njex9nfGZ/edit?usp=sharing&ouid=114396299228948489624&rtpof=true&sd=true)
+* [Video](https://youtu.be/8aJGZEtMB6A)
