@@ -8,3 +8,4 @@ The fairly recent field of Automated Machine Learning (AutoML) provides the rich
 
 * [Schedule](https://sched.co/14lwz)
 * [Slides](https://docs.google.com/presentation/d/11jFDjUhC1s6yCAPe_JtDUu4o-mYedsmR/edit?usp=sharing&ouid=114396299228948489624&rtpof=true&sd=true)
+* [Video](https://youtu.be/0jBNXZjQ01I)
