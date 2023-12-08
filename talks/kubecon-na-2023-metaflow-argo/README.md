@@ -6,5 +6,5 @@ The wave of exciting new AI demos & applications over the past year has highligh
 
 * [Schedule](https://sched.co/1R2u4)
 * [Slides](https://docs.google.com/presentation/d/1Pw-4Rhg6t4kh8fv90fMBPH6yGGVXT7YM/edit?usp=sharing&ouid=114396299228948489624&rtpof=true&sd=true)
-* Video (TBA)
+* [Video](https://youtu.be/mupRo7TX_H8?si=plxat7g2VLLDq6aD)
 * 330 attendees
