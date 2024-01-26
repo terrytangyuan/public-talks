@@ -1,4 +1,4 @@
-# Beyond Prototypes: Production-Ready ML Systems with Metaflow and Argo
+# Production-Ready AI Platform on Kubernetes
 
 **Abstract:**
 
