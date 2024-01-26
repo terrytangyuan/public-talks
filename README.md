@@ -15,6 +15,8 @@ This repository contains the slides, videos, and supporting files for my public 
 
 | Title | Venue | Role | Date |
 | ----- | ----- | ------ | ---- |
+| [Production-Ready AI Platform on Kubernetes](talks/kubecon-europe-2024-production-ai-platform-on-k8s) | [KubeCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | Speaker | March 22nd, 2024 |
+| [Welcome + Opening Remarks](talks/kubecon-europe-2024-cloud-native-ai-day) | [Cloud Native AI Day](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | Speaker | March 19th, 2024 |
 | [Beyond Prototypes: Production-Ready ML Systems with Metaflow and Argo](talks/kubecon-na-2023-metaflow-argo) | [KubeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | Speaker | Nov 7th, 2023 |
 | [[Keynote] Building for the Road Ahead: An Ode to Maintainers, the Life Blood of Our Ecosystem](talks/kubecon-na-2022-keynote-fireside-chat) | [KubeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | Invited Keynote Speaker | Oct 26th, 2022 |
 | [Automating Map-building Pipelines for Safe Autonomous Driving with Argo Workflows at TuSimple](talks/argocon-autonomous-driving-tusimple-2022) | [ArgoCon](https://events.linuxfoundation.org/argocon/) | Speaker | Sep 20th, 2022 |
