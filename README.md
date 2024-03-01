@@ -15,6 +15,7 @@ This repository contains the slides, videos, and supporting files for my public 
 
 | Title | Venue | Role | Date |
 | ----- | ----- | ------ | ---- |
+| [Highly Scalable Inference Platform for Models of Any Size](talks/odsc-2024-highly-scalable-inference-platform) | [Open Data Science Conference](https://odsc.com/boston/) | Speaker | April 24th, 2024 |
 | [Production-Ready AI Platform on Kubernetes](talks/kubecon-europe-2024-production-ai-platform-on-k8s) | [KubeCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | Speaker | March 22nd, 2024 |
 | [Welcome + Opening Remarks](talks/kubecon-europe-2024-cloud-native-ai-day) | [Cloud Native AI Day](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | Speaker | March 19th, 2024 |
 | [Beyond Prototypes: Production-Ready ML Systems with Metaflow and Argo](talks/kubecon-na-2023-metaflow-argo) | [KubeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | Speaker | Nov 7th, 2023 |
