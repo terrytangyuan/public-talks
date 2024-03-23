@@ -6,3 +6,4 @@ In recent years, advances in ML/AI have made tremendous progress yet designing l
 
 * [Schedule](https://sched.co/1YhjF)
 * [Recording](https://youtu.be/_RthQ01bwU8?si=RtbwPx-uXSO1n17s)
+* [Slides](https://docs.google.com/presentation/d/1WXlPpKJ8aCT7HyAwXR1CtazMPEnJI4Fw/edit?usp=sharing&ouid=114396299228948489624&rtpof=true&sd=true)
