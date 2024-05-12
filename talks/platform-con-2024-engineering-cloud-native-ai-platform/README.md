@@ -1,6 +1,6 @@
 # Engineering Cloud Native AI Platform
 
-<img align="center" src="speaker-card.png" alt="speaker-card" width="100%" height="50%">
+<img align="right" src="speaker-card.png" alt="speaker-card" width="50%" height="50%">
 
 **Abstract:**
 
