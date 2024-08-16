@@ -15,6 +15,8 @@ This repository contains the slides, videos, and supporting files for my public 
 
 | Title | Venue | Role | Date |
 | ----- | ----- | ------ | ---- |
+| [Unlocking Potential of Large Models in Production](https://sched.co/1i7ns) | [KubeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | Speaker | Nov 14th, 2024 |
+| [WG Serving: Accelerating AI/ML Inference Workloads on Kubernetes](https://sched.co/1hoy0) | [KubeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | Speaker | Nov 15th, 2024 |
 | [Engineering Cloud Native AI Platform](talks/platform-con-2024-engineering-cloud-native-ai-platform) | [PlatformCon](https://platformcon.com/) | Speaker | June 10th, 2024 |
 | [Highly Scalable Inference Platform for Models of Any Size](talks/odsc-2024-highly-scalable-inference-platform) | [Open Data Science Conference](https://odsc.com/boston/) | Speaker | April 24th, 2024 |
 | [Production-Ready AI Platform on Kubernetes](talks/kubecon-europe-2024-production-ai-platform-on-k8s) | [KubeCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | Speaker | March 22nd, 2024 |
