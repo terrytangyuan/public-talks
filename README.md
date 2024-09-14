@@ -2,7 +2,14 @@
 
 This repository contains the slides, videos, and supporting files for my public talks on various conferences, meetups, and classes.
 
-**If you'd like to invite me to speak at an event you are organizing or have any follow-up questions after you've attended any of my talks, feel free to email me at `terrytangyuan@gmail.com` or contact me via any of the following:**
+## Quick Summary
+
+* Venues: **KubeCon (Europe, North America, China), Open Data Science Conference, PlatformCon, PyData Global, IBM TechXchange, Wave Summit, ArgoCon, Cloud Native AI Day, Purdue University**.
+* Formats: **Keynotes with up to 8k attendees, opening remarks, regular presentations, and graduate-level lectures**.
+
+## Contact
+
+If you'd like to invite me to speak at an event you are organizing, feel free to email me at `terrytangyuan@gmail.com` or contact me via any of the following methods:
 
 <div align="center">
   <a href="https://twitter.com/TerryTangYuan"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/twitter.svg" alt="Twitter"></a>
@@ -10,6 +17,8 @@ This repository contains the slides, videos, and supporting files for my public 
   <a rel="me" href="https://fosstodon.org/@terrytangyuan"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/mastodon.svg" alt="Mastodon"></a>
   <a href="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/wechat-qr-code.png"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/wechat.svg" alt="微信"></a>
 </div>
+
+## Catalog (in chronological order)
 
 <br/>
 
