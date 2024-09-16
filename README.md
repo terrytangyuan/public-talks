@@ -18,7 +18,7 @@ If you'd like to invite me to speak at an event you are organizing, feel free to
   <a href="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/wechat-qr-code.png"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/wechat.svg" alt="微信"></a>
 </div>
 
-## Catalog (in chronological order)
+## List (in chronological order)
 
 <br/>
 
