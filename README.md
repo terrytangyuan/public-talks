@@ -15,7 +15,7 @@ If you'd like to invite me to speak at an event you are organizing, feel free to
   <a href="https://twitter.com/TerryTangYuan"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/twitter.svg" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/terrytangyuan"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/linkedin.svg" alt="LinkedIn"></a>
   <a rel="me" href="https://fosstodon.org/@terrytangyuan"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/mastodon.svg" alt="Mastodon"></a>
-  <a href="https://bsky.app/profile/terrytangyuan.bsky.social"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/bluesky.svg" alt="Bluesky"></a>
+  <a href="https://bsky.app/profile/terrytangyuan.xyz"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/bluesky.svg" alt="Bluesky"></a>
   <a href="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/wechat-qr-code.png"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/wechat.svg" alt="微信"></a>
 </div>
 
