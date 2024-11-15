@@ -6,3 +6,4 @@ In the rapidly evolving field of AI, innovation flourishes through the open exch
 
 * [Schedule](https://sched.co/1jOWl)
 * [Slides](https://docs.google.com/presentation/d/1rxajyU3rxfSX1qTCyEBziYeKOkumkIKH/edit?usp=sharing&ouid=114396299228948489624&rtpof=true&sd=true)
+* [Recording](https://youtu.be/kG_wqP2CXUE?si=56T28upMYW_fIHlU)
