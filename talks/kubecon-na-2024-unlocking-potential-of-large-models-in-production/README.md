@@ -6,3 +6,4 @@ The recent paradigm shift from traditional ML to GenAI and LLMs has brought with
 
 * [Schedule](https://sched.co/1i7ns)
 * [Slides](https://docs.google.com/presentation/d/1995mUQTU2lbmQaZNhHoq78OzJ_PA30dJ/edit?usp=sharing&ouid=114396299228948489624&rtpof=true&sd=true)
+* [Recording](https://youtu.be/-xEpzaIvor4?si=ALfvXfj-_gll21N3)
