@@ -6,4 +6,4 @@ The emergence of Generative AI (GenAI) has introduced new challenges and demands
 
 * [Schedule](https://sched.co/1hoy0)
 * [Slides](https://docs.google.com/presentation/d/1TyxhzAVDPaiMjojZJlgV179p_YEOVh9z/edit?usp=sharing&ouid=114396299228948489624&rtpof=true&sd=true)
-* [Recording](https://youtu.be/QMz4wf0mwfA?si=VRqiSqukiO3Dj-Ox)
+* [Recording](https://youtu.be/HWoHcOTKJM4?si=ngPu5MCJ6vONxX0c)
