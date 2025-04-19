@@ -1,7 +1,7 @@
 # KubeCon Europe 2025 and Co-located Events at London
 
 
-[Kubeflow Ecosystem: What’s Next for Cloud Native AI/ML and LLMOps](https://sched.co/1tcz0)
+## [Kubeflow Ecosystem: What’s Next for Cloud Native AI/ML and LLMOps](https://sched.co/1tcz0)
 
 **Abstract:**
 
@@ -12,7 +12,7 @@ Over the years, Kubeflow has become one of the most widely adopted ML platforms 
 
 ---
 
-[Advancements in AI/ML Inference Workloads on Kubernetes From WG Serving and Ecosystem Projects](https://sched.co/1tcx7)
+## [Advancements in AI/ML Inference Workloads on Kubernetes From WG Serving and Ecosystem Projects](https://sched.co/1tcx7)
 
 **Abstract:**
 
@@ -25,7 +25,7 @@ This session will dive into recent progress and updates on WG Serving's initiati
 
 ---
 
-[Panel: Engaging the Kubeflow Community: Building an Enterprise-Ready AI/ML Platform](https://sched.co/1u5fl)
+## [Panel: Engaging the Kubeflow Community: Building an Enterprise-Ready AI/ML Platform](https://sched.co/1u5fl)
 
 **Abstract:**
 
@@ -38,7 +38,7 @@ In this panel we will discuss the trade-offs between building a product based on
 
 ---
 
-[Cloud Native & Kubernetes AI Day Europe: Welcome + Opening Remarks](https://sched.co/1u5gF)
+## [Cloud Native & Kubernetes AI Day Europe: Welcome + Opening Remarks](https://sched.co/1u5gF)
 
 * [Recording](https://youtu.be/IwlN9LwL97s?si=Io8UQpDFxCqrO5tE)
 * [Slides](https://docs.google.com/presentation/d/1oGengM2DsP9nvz6fCclMi9qz4wbYDm8ealsoUb2jFNM/edit?usp=sharing)
