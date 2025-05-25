@@ -4,7 +4,7 @@ This repository contains the slides, videos, and supporting files for my public 
 
 ## Quick Summary
 
-* Venues: **KubeCon; Open Data Science Conference; PlatformCon; PyData Global; Kubernetes Podcast from Google; IBM TechXchange; Red Hat Summit; Wave Summit; ArgoCon; Cloud Native AI Day; and Purdue University**.
+* Venues: **KubeCon; Open Data Science Conference; PlatformCon; PyData Global; Kubernetes Podcast; IBM TechXchange; Red Hat Summit; Wave Summit; ArgoCon; Cloud Native AI Day; and Purdue University**.
 * Formats: **Keynotes with up to 8k attendees; opening remarks; regular presentations; podcasts; panels; and university lectures**.
 
 ## Contact
