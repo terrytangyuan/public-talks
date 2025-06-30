@@ -24,7 +24,7 @@ If you'd like to invite me to speak at an event you are organizing, feel free to
 
 | Title | Venue | Role | Date |
 | ----- | ----- | ------ | ---- |
-| [KServe Deep Dive: Evolving Model Serving for the Generative AI Era](talks/kserve-deep-dive-ibm-techxchange-2025) | [IBM TechXchange Conference](https://www.ibm.com/community/ibm-techxchange-conference/) | Invited Speaker | Oct 6th, 2025 |
+| [KServe Deep Dive: Evolving Model Serving for the Generative AI Era](talks/kserve-deep-dive-ibm-techxchange-2025) | [IBM TechXchange](https://www.ibm.com/community/ibm-techxchange-conference/) | Invited Speaker | Oct 6th, 2025 |
 | [Embracing Partnership and Open Collaboration in the Cloud-Native and AI Model Serving Communities](talks/red-hat-summit-2025) | [Red Hat Summit](https://www.redhat.com/en/summit) | Moderator | May 20th, 2025 |
 | [Kubeflow Ecosystem: What’s Next for Cloud Native AI/ML and LLMOps](talks/kubecon-europe-2025) | [KubeCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) | Speaker | April 3rd, 2025 |
 | [Advancements in AI/ML Inference Workloads on Kubernetes From WG Serving and Ecosystem Projects](talks/kubecon-europe-2025) | [KubeCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) | Speaker | April 2nd, 2025 |
@@ -34,7 +34,7 @@ If you'd like to invite me to speak at an event you are organizing, feel free to
 | [Unlocking Potential of Large Models in Production](talks/kubecon-na-2024-unlocking-potential-of-large-models-in-production) | [KubeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | Speaker | Nov 14th, 2024 |
 | [[Keynote] Advancing Cloud Native AI Innovation Through Open Collaboration](talks/cloud-native-ai-day-2024-keynote-advancing-cloud-native-ai-innovation-through-open-collaboration) | [Cloud Native & Kubernetes AI Day North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/cloud-native-kubernetes-ai-day/) | Keynote Speaker | Nov 12th, 2024 |
 | [Kubernetes Working Group Serving](https://kubernetespodcast.com/episode/240-wg-serving/) | [Kubernetes Podcast from Google](https://kubernetespodcast.com/) | Invited Speaker | Oct 31st, 2024 |
-| [KServe Essentials: Building a Production-Ready Cloud-Native Model Serving Platform](talks/kserve-essentials-ibm-techxchange-2024) | [IBM TechXchange Conference](https://www.ibm.com/community/ibm-techxchange-conference/) | Invited Speaker | Oct 21st, 2024 |
+| [KServe Essentials: Building a Production-Ready Cloud-Native Model Serving Platform](talks/kserve-essentials-ibm-techxchange-2024) | [IBM TechXchange](https://www.ibm.com/community/ibm-techxchange-conference/) | Invited Speaker | Oct 21st, 2024 |
 | [Engineering Cloud Native AI Platform](talks/platform-con-2024-engineering-cloud-native-ai-platform) | [PlatformCon](https://platformcon.com/) | Speaker | June 10th, 2024 |
 | [Highly Scalable Inference Platform for Models of Any Size](talks/odsc-2024-highly-scalable-inference-platform) | [Open Data Science Conference](https://odsc.com/boston/) | Speaker | April 24th, 2024 |
 | [Production-Ready AI Platform on Kubernetes](talks/kubecon-europe-2024-production-ai-platform-on-k8s) | [KubeCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | Speaker | March 22nd, 2024 |
