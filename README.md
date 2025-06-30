@@ -23,6 +23,7 @@ If you'd like to invite me to speak at an event you are organizing, feel free to
 
 | Title | Venue | Role | Date |
 | ----- | ----- | ------ | ---- |
+| [KServe Deep Dive: Evolving Model Serving for the Generative AI Era](talks/kserve-deep-dive-ibm-techxchange-2025) | [IBM TechXchange Conference](https://www.ibm.com/community/ibm-techxchange-conference/) | Invited Speaker | Oct 6th, 2025 |
 | [Embracing Partnership and Open Collaboration in the Cloud-Native and AI Model Serving Communities](talks/red-hat-summit-2025) | [Red Hat Summit](https://www.redhat.com/en/summit) | Speaker | May 20th, 2025 |
 | [Kubeflow Ecosystem: What’s Next for Cloud Native AI/ML and LLMOps](talks/kubecon-europe-2025) | [KubeCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) | Speaker | April 3rd, 2025 |
 | [Advancements in AI/ML Inference Workloads on Kubernetes From WG Serving and Ecosystem Projects](talks/kubecon-europe-2025) | [KubeCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) | Speaker | April 2nd, 2025 |
