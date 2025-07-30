@@ -4,9 +4,9 @@ This repository contains the slides, videos, and supporting files for my public 
 
 ## Quick Summary
 
-* Venues: **KubeCon; Open Data Science Conference; PlatformCon; PyData Global; Kubernetes Podcast; IBM TechXchange; Red Hat Summit; Wave Summit; ArgoCon; Cloud Native AI Day; and Purdue University**.
+* Venues: **KubeCon (North America, Europe, China); Open Data Science Conference; PlatformCon; PyData Global; Kubernetes Podcast; IBM TechXchange; Red Hat Summit; Wave Summit; ArgoCon; Cloud Native AI Day; and Purdue University**.
 * Formats: **Keynotes with up to 8k attendees; opening remarks; regular presentations; podcasts; panels; and university lectures**.
-* Roles: **Speaker; moderator; lecturer; and panelist**.
+* Roles: **Speaker; panel moderator; lecturer; and panelist**.
 
 ## Contact
 
@@ -24,8 +24,11 @@ If you'd like to invite me to speak at an event you are organizing, feel free to
 
 | Title | Venue | Role | Date |
 | ----- | ----- | ------ | ---- |
-| [KServe Deep Dive: Evolving Model Serving for the Generative AI Era](talks/kserve-deep-dive-ibm-techxchange-2025) | [IBM TechXchange](https://www.ibm.com/community/ibm-techxchange-conference/) | Invited Speaker | Oct 6th, 2025 |
-| [Embracing Partnership and Open Collaboration in the Cloud-Native and AI Model Serving Communities](talks/red-hat-summit-2025) | [Red Hat Summit](https://www.redhat.com/en/summit) | Moderator | May 20th, 2025 |
+| [[🔔Upcoming] Kubeflow Ecosystem: Navigating the Cloud-Native AI/ML and LLMOps Frontier](TBA) | [KubeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | Speaker | Nov 10-13, 2025 |
+| [[🔔Upcoming] Navigating the Rapid Evolution of Large Model Inference: Where does Kubernetes Fit?](TBA) | [KubeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | Speaker | Nov 10-13, 2025 |
+| [[🔔Upcoming] Introducing TAG Workloads Foundation: Advancing the Core of Cloud Native Execution](TBA) | [KubeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | Speaker | Nov 10-13, 2025 |
+| [[🔔Upcoming] KServe Deep Dive: Evolving Model Serving for the Generative AI Era](talks/kserve-deep-dive-ibm-techxchange-2025) | [IBM TechXchange](https://www.ibm.com/community/ibm-techxchange-conference/) | Invited Speaker | Oct 6th, 2025 |
+| [Embracing Partnership and Open Collaboration in the Cloud-Native and AI Model Serving Communities](talks/red-hat-summit-2025) | [Red Hat Summit](https://www.redhat.com/en/summit) | Panel Moderator | May 20th, 2025 |
 | [Kubeflow Ecosystem: What’s Next for Cloud Native AI/ML and LLMOps](talks/kubecon-europe-2025) | [KubeCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) | Speaker | April 3rd, 2025 |
 | [Advancements in AI/ML Inference Workloads on Kubernetes From WG Serving and Ecosystem Projects](talks/kubecon-europe-2025) | [KubeCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) | Speaker | April 2nd, 2025 |
 | [Panel: Engaging the Kubeflow Community: Building an Enterprise-Ready AI/ML Platform](talks/kubecon-europe-2025) | [Cloud Native & Kubernetes AI Day Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/cloud-native-kubernetes-ai-day/) | Speaker | April 1st, 2025 |
