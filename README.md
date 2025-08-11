@@ -13,9 +13,11 @@ This repository contains the slides, videos, and supporting files for my public 
 If you'd like to invite me to speak at an event you are organizing, feel free to email me at `terrytangyuan@gmail.com` or contact me via any of the following methods:
 
 <div align="center">
-  <a href="https://twitter.com/TerryTangYuan"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/twitter.svg" alt="Twitter"></a>
+  <a href="https://x.com/TerryTangYuan"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/twitter.svg" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/terrytangyuan"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/linkedin.svg" alt="LinkedIn"></a>
   <a href="https://bsky.app/profile/terrytangyuan.xyz"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/bluesky.svg" alt="Bluesky"></a>
+  <a href="https://fosstodon.org/@terrytangyuan"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/mastodon.svg" alt="Mastodon"></a>
+  <a href="https://github.com/sponsors/terrytangyuan"><img src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/sponsors.svg" alt="Sponsors"></a>
 </div>
 
 ## List (in chronological order)
