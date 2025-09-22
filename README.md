@@ -14,7 +14,7 @@ This repository contains the slides, videos, and supporting files for my public 
 
 * Venues: **KubeCon (North America, Europe, China); Open Data Science Conference; PlatformCon; PyData Global; Kubernetes Podcast; IBM TechXchange; Red Hat Summit; Wave Summit; ArgoCon; Cloud Native AI Day; and Purdue University**.
 * Formats: **Keynotes with up to 8k attendees; opening remarks; regular presentations; podcasts; panels; and university lectures**.
-* Roles: **Speaker; panel moderator; lecturer; and panelist**.
+* Roles: **Keynote speaker; lecturer; panel moderator and panelist**.
 
 ## Contact
 
@@ -26,6 +26,7 @@ If you'd like to invite me to speak at an event you are organizing, feel free to
 
 | Title | Venue | Role | Date | Location |
 | ----- | ----- | ------ | ---- | -------|
+| [[🔔Upcoming][Keynote] Anchoring Trust in the Age of AI: Identities Across Humans, Machines, and Models](https://sched.co/27dCb) | [KubeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | Keynote Speaker | Nov 11th, 2025 | Atlanta |
 | [[🔔Upcoming] Kubeflow Ecosystem: Navigating the Cloud-Native AI/ML and LLMOps Frontier](https://sched.co/27Nm7) | [KubeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | Speaker | Nov 13th, 2025 | Atlanta |
 | [[🔔Upcoming] Navigating the Rapid Evolution of Large Model Inference: Where does Kubernetes Fit?](https://sched.co/27Nlv) | [KubeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | Speaker | Nov 12th, 2025 | Atlanta |
 | [[🔔Upcoming] Introducing TAG Workloads Foundation: Advancing the Core of Cloud Native Execution](https://sched.co/27NnE) | [KubeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | Speaker | Nov 11th, 2025 | Atlanta |
