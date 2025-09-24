@@ -11,15 +11,13 @@
 
 This repository contains the slides, videos, and supporting files for my public talks on various conferences, meetups, and classes.
 
+If you'd like to invite me to speak at an event you are organizing, feel free to reach out.
+
 ## Quick Summary
 
 * Venues: **KubeCon (North America, Europe, China); Open Data Science Conference; PlatformCon; PyData Global; Kubernetes Podcast; IBM TechXchange; Red Hat Summit; Wave Summit; ArgoCon; Cloud Native AI Day; and Purdue University**.
 * Formats: **Keynotes with up to 8k attendees; opening remarks; regular presentations; podcasts; panels; and university lectures**.
 * Roles: **Keynote speaker; lecturer; panel moderator and panelist**.
-
-## Contact
-
-If you'd like to invite me to speak at an event you are organizing, feel free to email me at `terrytangyuan@gmail.com`.
 
 ## List (in chronological order)
 
