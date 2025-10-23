@@ -9,3 +9,8 @@ We’re excited to announce the release of KServe v0.17, a significant milestone
 Attendees will walk away with a clear understanding of the technologies driving the next generation of AI applications — and how to architect infrastructure ready to meet the demands of generative AI at scale.
 
 * [Slides](https://docs.google.com/presentation/d/1R6Ua9T5UndFg6PzuTMJU2HFgVqQh5n9p/edit?usp=sharing&ouid=114396299228948489624&rtpof=true&sd=true)
+
+
+## The Power of Community - Kick Off Video for Community Day at IBM TechXchange
+
+* [Video](https://youtu.be/Q0E8ZNMk1Ac)
