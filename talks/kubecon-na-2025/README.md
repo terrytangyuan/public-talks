@@ -11,12 +11,14 @@ This keynote shows how projects like Kubernetes can anchor a new trust fabric. W
 
 * [Recording](https://youtu.be/Sw5uT4VkCHA?si=Q0nEnt0WtKg3WmOl)
 * [Slides](https://docs.google.com/presentation/d/17qbr6vggpriD6kwfqnPp4rUjYThyR9sdoRnZSeEc8Yc/edit?usp=sharing)
+* 9000+ attendees
 
 ---
 
 ## [[Keynote] Welcome + Opening Remarks, KubeCon North America](https://sched.co/27dC4)
 
 * [Recording](https://youtu.be/cQvtT2vRhok?si=UiSTg9aAlBRl_8Gv&t=1462)
+* 9000+ attendees
 
 ---
 
