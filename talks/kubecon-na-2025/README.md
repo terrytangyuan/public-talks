@@ -33,7 +33,7 @@ We are thrilled to announce the release of KServe v0.17, a major milestone intro
 
 Attendees will gain insights into the technologies powering the next wave of AI applications and learn how to prepare their infrastructure for a generative AI future. 
 
-* [Recording]()
+* [Recording (TBA)]()
 * [Slides](https://docs.google.com/presentation/d/1vSjvpdzlNaWR5Z2_Yb2tTKPSP5cklT_D/edit?usp=sharing&ouid=114396299228948489624&rtpof=true&sd=true)
 
 ---
@@ -45,7 +45,7 @@ Attendees will gain insights into the technologies powering the next wave of AI 
 
 The CNCF Technical Advisory Groups (TAGs) play a vital role in shaping the future of cloud native. We’re excited to introduce a new addition: the TAG Workloads Foundation. This session will present the mission, scope, and early initiatives of TAG Workloads Foundation, focused on defining and advancing practices and standards for cloud native workload execution environments and lifecycle management. Attendees will learn how this TAG supports the CNCF's technical vision, why workload execution is critical for adopters, and how community members can get involved to help solve real-world challenges across container platforms, schedulers, orchestration systems, etc. Join us to help shape the next phase of cloud native maturity—from fundamental runtime environments to future-forward workload patterns.
 
-* [Recording]()
+* [Recording (TBA)]()
 * [Slides](https://docs.google.com/presentation/d/129qV20mjAgmHWefeRf3waVW_I7ZLCjwS/edit?usp=sharing&ouid=114396299228948489624&rtpof=true&sd=true)
 
 ---
@@ -58,7 +58,7 @@ The CNCF Technical Advisory Groups (TAGs) play a vital role in shaping the futur
 
 Large model inference is evolving rapidly: model or expert parallelism, prefill/decode disaggregation, multi-lora and kv cache offloading push the limits of traditional serving. As infrastructure teams, we must decide — what belongs in Kubernetes core primitives vs engines vs ecosystem projects? In this session, WG-Serving chairs and industry leaders will share real-world lessons on managing these blurry boundaries. We’ll discuss how to evaluate new patterns, balance control vs observability, and adapt infrastructure to stay ahead in this dynamic landscape. Attendees will gain practical frameworks to decide when to extend Kubernetes vs offload to runtimes, and insights into top emerging demands from large-scale LLM workloads.
 
-* [Recording]()
+* [Recording (TBA)]()
 * [Slides](https://docs.google.com/presentation/d/1lXWf1XPfG8z6-p6LwQ7twCSu8Xq9r4W6/edit?usp=sharing&ouid=114396299228948489624&rtpof=true&sd=true)
 
 ---
@@ -66,5 +66,5 @@ Large model inference is evolving rapidly: model or expert parallelism, prefill/
 
 ## [Cloud Native & Kubernetes AI Day Closing Remarks](https://sched.co/28F9C)
 
-* [Recording]()
+* [Recording (TBA)]()
 * [Slides](https://docs.google.com/presentation/d/1i8wT_qFQv4aMajLrJtJbwZWzH75qjMgDR5mktj5jHa8/edit?usp=sharing)
