@@ -16,7 +16,7 @@ If you'd like to invite me to speak at an event you are organizing, feel free to
 ## Quick Summary
 
 * Venues: **KubeCon (North America, Europe, China); Open Data Science Conference; PlatformCon; PyData Global; Kubernetes Podcast; IBM TechXchange; Red Hat Summit; Wave Summit; ArgoCon; Cloud Native AI Day; and Purdue University**.
-* Formats: **Keynotes with up to 9,000 attendees; opening remarks; regular presentations; podcasts; panels; and university lectures**.
+* Formats: **Keynotes with 9,000+ attendees; opening remarks; regular presentations; podcasts; panels; and university lectures**.
 * Roles: **Keynote speaker; lecturer; panel moderator and panelist**.
 
 ## List (in chronological order)
