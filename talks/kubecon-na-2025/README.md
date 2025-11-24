@@ -33,7 +33,7 @@ We are thrilled to announce the release of KServe v0.17, a major milestone intro
 
 Attendees will gain insights into the technologies powering the next wave of AI applications and learn how to prepare their infrastructure for a generative AI future. 
 
-* [Recording (TBA)]()
+* [Recording](https://youtu.be/vbRpeUDN4TQ?si=0EwlVSssetR1FsOY)
 * [Slides](https://docs.google.com/presentation/d/1vSjvpdzlNaWR5Z2_Yb2tTKPSP5cklT_D/edit?usp=sharing&ouid=114396299228948489624&rtpof=true&sd=true)
 
 ---
@@ -66,5 +66,5 @@ Large model inference is evolving rapidly: model or expert parallelism, prefill/
 
 ## [Cloud Native & Kubernetes AI Day Closing Remarks](https://sched.co/28F9C)
 
-* [Recording (TBA)]()
+* [Recording](https://youtu.be/kZJTR_CaIbY?si=1sLRY_t0w0l7NQuB)
 * [Slides](https://docs.google.com/presentation/d/1i8wT_qFQv4aMajLrJtJbwZWzH75qjMgDR5mktj5jHa8/edit?usp=sharing)
