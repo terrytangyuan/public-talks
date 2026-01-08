@@ -17,7 +17,7 @@ If you'd like to invite me to speak at an event you are organizing, feel free to
 
 ## Quick Summary
 
-Delivered keynotes to 9,000+ attendees, regular presentations, panels, podcasts, and university lectures at major venues including KubeCon (North America, Europe, China), Open Data Science Conference, PlatformCon, PyData Global, IBM TechXchange, Red Hat Summit, ArgoCon, Cloud Native AI Day, and Purdue University. Served in roles ranging from keynote speaker and lecturer to panel moderator and participant. 
+Delivered keynotes to audiences of up to 9,000+ attendees, regular presentations, panels, podcasts, and university lectures at major venues including KubeCon (North America, Europe, China), Open Data Science Conference, PlatformCon, PyData Global, IBM TechXchange, Red Hat Summit, ArgoCon, Cloud Native AI Day, and Purdue University. Served in roles ranging from keynote speaker and lecturer to panel moderator and participant. 
 
 ## List (in chronological order)
 
