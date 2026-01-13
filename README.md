@@ -41,7 +41,7 @@ Delivered keynotes to audiences of up to 9,000+ attendees, regular presentations
 
 | Title | Venue | Role | Date | Location |
 | ----- | ----- | ------ | ---- | -------|
-| [Cloud Native AI + Kubeflow Day: Welcome + Opening Remarks](https://sched.co/2DZN3) | [KubeCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) | Speaker and Program Chair | March 23rd, 2026 | Amsterdam |
+| [[Upcoming] Cloud Native AI + Kubeflow Day: Welcome + Opening Remarks](https://sched.co/2DZN3) | [KubeCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) | Speaker and Program Chair | March 23rd, 2026 | Amsterdam |
 | [Navigating the Rapid Evolution of Large Model Inference: Where does Kubernetes Fit?](talks/kubecon-na-2025#navigating-the-rapid-evolution-of-large-model-inference-where-does-kubernetes-fit) | [KubeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | Speaker | Nov 12th, 2025 | Atlanta |
 | [Introducing TAG Workloads Foundation: Advancing the Core of Cloud Native Execution](talks/kubecon-na-2025#introducing-tag-workloads-foundation-advancing-the-core-of-cloud-native-execution) | [KubeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | Speaker | Nov 11th, 2025 | Atlanta |
 | [KServe Next: Advancing Generative AI Model Serving](talks/kubecon-na-2025#kserve-next-advancing-generative-ai-model-serving) | [Cloud Native & Kubernetes AI Day North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/co-located-events/cloud-native-kubernetes-ai-day/) | Speaker | Nov 10th, 2025 | Atlanta |
