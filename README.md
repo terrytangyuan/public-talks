@@ -42,7 +42,7 @@ Delivered keynotes to audiences of up to 9,000+ attendees, regular presentations
 | Title | Venue | Role | Date | Location |
 | ----- | ----- | ------ | ---- | -------|
 | [[Upcoming] Cloud Native AI + Kubeflow Day: Welcome + Opening Remarks](https://sched.co/2DZN3) | [Cloud Native AI + Kubeflow DayCloud Native AI + Kubeflow Day](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/cloud-native-ai-kubeflow-day/) | Speaker and Program Chair | March 23rd, 2026 | Amsterdam |
-| [[Upcoming] Project Lightning Talk: Evolving KServe](https://sched.co/2EFyW) | [KubeCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) | Speaker | March 23rd, 2026 | Amsterdam |
+| [[Upcoming] Project Lightning Talk: Evolving KServe: The Unified Model Inference Platform for Both Predictive and Generative AI](https://sched.co/2EFyW) | [KubeCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) | Speaker | March 23rd, 2026 | Amsterdam |
 | [[Upcoming] Explore TAG Workloads Foundation: Advancing Cloud Native Execution From Core Runtime To Applications](https://sched.co/2EF7F) | [KubeCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) | Speaker | March 25th, 2026 | Amsterdam |
 | [[Upcoming] Advancing Kubernetes AI Conformance: Current State and Roadmap](https://sched.co/2EF76) | [KubeCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) | Speaker | March 26th, 2026 | Amsterdam |
 | [[Upcoming] Evolving KServe: The Unified Model Inference Platform for Both Predictive and Generative AI](https://sched.co/2EF54) | [KubeCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) | Speaker | March 26th, 2026 | Amsterdam |
