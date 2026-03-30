@@ -75,3 +75,10 @@ Delivered keynotes to audiences of up to 9,000+ attendees, regular presentations
 | [Considerations for Large Scale Analytics in Production](talks/considerations-for-large-scale-analytics-in-production-purdue) | [School of Management, Purdue University](https://www.purdue.edu/) | Invited Lecturer | Nov 28th, 2018 | West Lafayette |
 | [TensorFlow Overview - Why Should Statisticians Care?](talks/tensorflow-overview-why-should-statisticians-care-purdue) | [Department of Statistics, Purdue University](https://www.purdue.edu/) | Invited Lecturer | Oct 18th, 2017 | West Lafayette |
 | [Introduction to TensorFlow](talks/introduction-to-tensorflow-asa-conference) | [American Statistical Association Conference](https://www.amstat.org/) | Invited Speaker | Mar 3rd, 2017 | Chicago |
+
+
+### Short Videos
+
+* [Why is open, transparent data important to LLMs? - Red Hat](https://youtu.be/ZlRrD-lXOzI?si=jA7buNBilEZdqWlU)
+* [The Power of Community | IBM TechXchange Community Day Kickoff](https://youtu.be/Q0E8ZNMk1Ac?si=SVoBwI2_q5XT3EVH)
+* [Using llm-d to Serve Large Models - Red Hat Community](https://youtu.be/qwhhNFvX928?si=uJLRTDdKGJaIjINL)
