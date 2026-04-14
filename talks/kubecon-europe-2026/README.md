@@ -22,5 +22,5 @@
 
 ## [Cloud Native AI + Kubeflow Day: Welcome + Opening Remarks: Welcome + Opening Remarks](https://sched.co/2DZN3)
 
-* [Recording](TBD)
+* [Recording](https://youtu.be/ZFFdDwD0Z-k?si=wClq4N4PXXE0ViAZ)
 * [Slides](https://docs.google.com/presentation/d/11YsTy4Uo7h3uuZhl59w4Mfnu-M1V1OTR/edit?usp=sharing&ouid=114396299228948489624&rtpof=true&sd=true)
