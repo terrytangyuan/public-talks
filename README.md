@@ -41,7 +41,7 @@ Delivered keynotes to audiences of up to 9,000+ attendees, regular presentations
 
 | Title | Venue | Role | Date | Location |
 | ----- | ----- | ------ | ---- | -------|
-| [Upcoming] Explore TAG Workloads Foundation: Core Runtime, Batch Scheduling, and Moar | [KubeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | Speaker | Nov, 2026 | Salt Lake City |
+| [[Upcoming] Explore TAG Workloads Foundation: Core Runtime, Batch Scheduling, and Moar](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/program/schedule/?id=1289723) | [KubeCon North America](https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america/) | Speaker | Nov, 2026 | Salt Lake City |
 | [Building for the Road Ahead: Transferable Lessons from the Front Lines of Open Source Maintenance](talks/scipy2026) | [SciPy Conference](https://www.scipy2026.scipy.org/) | Speaker | July 16th, 2026 | Minneapolis |
 | [Cloud Native AI + Kubeflow Day: Welcome + Opening Remarks](talks/kubecon-europe-2026#cloud-native-ai--kubeflow-day-welcome--opening-remarks-welcome--opening-remarks) | [Cloud Native AI + Kubeflow Day Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/co-located-events/cloud-native-ai-kubeflow-day/) | Speaker and Program Chair | March 23rd, 2026 | Amsterdam |
 | [Project Lightning Talk: Evolving KServe: The Unified Model Inference Platform for Both Predictive and Generative AI](talks/kubecon-europe-2026#project-lightning-talk-evolving-kserve-the-unified-model-inference-platform-for-both-predictive-and-generative-ai) | [KubeCon Europe](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/) | Speaker | March 23rd, 2026 | Amsterdam |
