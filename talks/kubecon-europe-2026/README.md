@@ -1,4 +1,4 @@
-# KubeCon Europe 2026 and Co-located Events at London
+# KubeCon Europe 2026 and Co-located Events in London
 ---
 
 ## [Advancing Kubernetes AI Conformance: Current State and Roadmap](https://sched.co/2EF76)

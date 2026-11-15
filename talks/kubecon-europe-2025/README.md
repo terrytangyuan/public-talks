@@ -1,4 +1,4 @@
-# KubeCon Europe 2025 and Co-located Events at London
+# KubeCon Europe 2025 and Co-located Events in London
 
 
 ## [Kubeflow Ecosystem: What’s Next for Cloud Native AI/ML and LLMOps](https://sched.co/1tcz0)

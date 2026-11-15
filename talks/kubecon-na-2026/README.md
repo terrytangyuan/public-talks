@@ -1,4 +1,4 @@
-# KubeCon North America 2026 and Co-located Events at London
+# KubeCon North America 2026 and Co-located Events in Salt Lake City
 
 
 ## Explore TAG Workloads Foundation: Core Runtime, Batch Scheduling, and Moar

@@ -1,4 +1,4 @@
-# KubeCon North America 2025 and Co-located Events at Atlanta
+# KubeCon North America 2025 and Co-located Events in Atlanta
 
 
 ## [[Keynote] Anchoring Trust in the Age of AI: Identities Across Humans, Machines, and Models](https://sched.co/27dCb)
