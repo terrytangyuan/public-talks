@@ -19,11 +19,11 @@ Whether you run scientific computing, manage GPU clusters, or build infrastructu
 
 ## Cloud Native AI and Inference Day North America: Welcome + Opening Remarks]
 
-* [Recording](TBD)
+* [Recording](https://youtu.be/kP69fK6Z4UE?si=8Mbvn12-cRvDi5bn)
 * [Slides](https://docs.google.com/presentation/d/1_-vX16Ab6VrXveBlgNwAOR69zeXLNBYq/edit?usp=sharing&ouid=114396299228948489624&rtpof=true&sd=true)
 
 
 ## Cloud Native AI and Inference Day North America: Closing Remarks]
 
-* [Recording](TBD)
+* [Recording](https://youtu.be/EV3y2QeIOJs?si=wN8WjG08FGrME496)
 * [Slides](https://docs.google.com/presentation/d/1cd0G7pJx1RdZSzH366yipa25_lJMjo9y/edit?usp=sharing&ouid=114396299228948489624&rtpof=true&sd=true)
