@@ -11,7 +11,7 @@ Come learn about projects tackling GPU sharing, VM-based workloads, batch worklo
 
 Whether you run scientific computing, manage GPU clusters, or build infrastructure for AI teams, you'll leave with a clear picture of what cloud native workload execution actually looks like across the full stack and where to plug in.
 
-* [Recording](TBD)
+* [Recording](https://youtu.be/FkuUMUZWO-g?si=rJ-GWQoimuwMyKbH)
 * [Slides](https://docs.google.com/presentation/d/1JPzSGhhQU8Yhii45ofkHnKHLkj-ssen_mycVF0ATQ3Y/edit?usp=sharing)
 
 ---
